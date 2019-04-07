@@ -1,0 +1,23 @@
+
+
+.clear-btn {
+  display: flex;
+  height: 4em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #e0e1e6;
+  font-weight: bolder;
+  color: #888;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+  border: none;
+  /* outline: 1px solid #888; */
+}
+
+button:active{ 
+  background-color:rgb(103, 103, 103);
+}
